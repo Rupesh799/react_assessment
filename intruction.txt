@@ -1,2 +1,6 @@
 1.First clone the github repo from the link.
-2.
+2.open the directory in the IDE  of your choice (I use VS Code).
+3.open terminal
+4.Type command "npm install / yarn install"
+5.Type command "npm run dev / yarn dev"
+6.Then the Project will run
